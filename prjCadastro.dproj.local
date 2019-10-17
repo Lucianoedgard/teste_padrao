@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/10/15 21:22:15.431.pas,C:\Users\userppi\Documents\RAD Studio\Projects\Unit2.pas=C:\Teste_Padrao\uFrmCadastro.pas</Transaction>
+    <Transaction>2019/10/15 21:22:15.431.dfm,C:\Users\userppi\Documents\RAD Studio\Projects\Unit2.dfm=C:\Teste_Padrao\uFrmCadastro.dfm</Transaction>
+    <Transaction>2019/10/15 21:22:29.367.dproj,C:\Users\userppi\Documents\RAD Studio\Projects\Project2.dproj=C:\Teste_Padrao\prjCadastro.dproj</Transaction>
+    <Transaction>2019/10/15 21:42:08.752.pas,C:\Teste_Padrao\Unit1.pas=C:\Teste_Padrao\uViaCEP.pas</Transaction>
+    <Transaction>2019/10/15 22:04:24.743.pas,C:\Teste_Padrao\Unit1.pas=C:\Teste_Padrao\uLibAux.pas</Transaction>
+    <Transaction>2019/10/15 23:05:30.898.pas,C:\Teste_Padrao\Unit1.pas=C:\Teste_Padrao\UAPIviacep.pas</Transaction>
+    <Transaction>2019/10/15 23:18:08.236.pas,C:\Teste_Padrao\UAPIviacep.pas=</Transaction>
+    <Transaction>2019/10/15 23:45:53.980.pas,C:\Teste_Padrao\Unit1.pas=C:\Teste_Padrao\uEndereco.pas</Transaction>
+    <Transaction>2019/10/16 00:35:34.995.pas,C:\Teste_Padrao\uViaCEP.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
